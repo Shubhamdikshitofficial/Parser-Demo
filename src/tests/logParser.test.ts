@@ -1,4 +1,4 @@
-import { LogParser } from '../src/parser';
+import { LogParser } from '../parser';
 import * as fs from 'fs';
 import { spawnSync } from 'child_process';
 // describe('LogParser', () => {
